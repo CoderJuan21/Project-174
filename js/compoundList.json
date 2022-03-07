@@ -1,0 +1,23 @@
+{
+    "0":{
+        "barcode_value":0,
+        "model_name":"base",
+        "model_url":"#",
+        "position":{"x":0,"y":0,"z":0},
+        "rotation":{"x":-90,"y":0,"z":0},
+        "color":"#795548",
+        "width":19,
+        "height":15
+    },
+    "1":{
+        "barcode_value":1,
+        "model_name":"car",
+        "model_url":"https://raw.githubusercontent.com/CoderJuan21/Project-174/main/scene.gltf",
+        "position":{"x":0,"y":-2.2,"z":0},
+        "rotation":{"x":0,"y":-90,"z":0},
+        "scale":{"x":1,"y":1,"z":1},
+        "placement_position":{"x":1.2,"y":-2.2,"z":5.7},
+        "placement_rotation":{"x":0,"y":-90,"z":0},
+        "placement_scale":{"x":1,"y":1,"z":1}
+    }
+}
